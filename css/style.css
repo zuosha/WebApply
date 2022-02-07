@@ -61,6 +61,17 @@ a:active{
 	margin-bottom: 5px;
 	background-color: #cff;
 }
+.subcon{
+	margin: 10px;
+	width: 570px;
+	clear: both;
+}
+.subcon img{
+	margin: 5px;
+	padding: 5px;
+	float: left;
+	border: 1px dashed #000;
+}
 #footer{
 	height: 60px;
 	line-height: 60px;
